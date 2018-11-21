@@ -39,6 +39,7 @@
 * 2018
   * KDD, Londres - Are your data gathered? (Alban SIFFER, Pierre-Alain FOUQUE, Alexandre TERMIER, Christine LARGOUET)
   * C&ESAR, Rennes - Intelligent Thresholding (Alban SIFFER) [slides](documents/2018_CESAR_Intelligent_thresholding.pdf)
+  * European Cyber Week, Rennes - Les limites de l'IA appliquée à la cybersécurité dans un contexte d'évaluation (Frederic GUIHÉRY) [slides](documents/2018_ECW_Evaluation_produits_IA.pdf)
 
 ## Thesis manuscripts
 
