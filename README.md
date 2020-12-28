@@ -40,8 +40,11 @@
   * KDD, Londres - Are your data gathered? (Alban SIFFER, Pierre-Alain FOUQUE, Alexandre TERMIER, Christine LARGOUET)
   * C&ESAR, Rennes - Intelligent Thresholding (Alban SIFFER) [slides](documents/2018_CESAR_Intelligent_thresholding.pdf)
   * European Cyber Week, Rennes - Les limites de l'IA appliquée à la cybersécurité dans un contexte d'évaluation (Frederic GUIHÉRY) [slides](documents/2018_ECW_Evaluation_produits_IA.pdf)
+* 2020
+  * C&ESAR, Rennes - Intelligent Thresholding (Frédéric GUIHERY, Alban SIFFER, Joseph PAILLARD) [slides](documents/2020_CESAR_BEEZH_platform.pptx) [paper](documents/2020_CESAR_BEEZH_platform.pdf)
 
 ## Thesis manuscripts
 
 * 2014 : Exploiting Semantic for the Automatic Reverse Engineering of Communication Protocols (Georges BOSSERT) [manuscrit](documents/2014_these_Georges_Bossert.pdf)
 * 2017 : Identification d'algorithmes cryptographiques dans du code natif (Pierre LESTRINGANT) [manuscrit](documents/2017_these_Pierre_Lestringant.pdf)
+* 2019 : New statistical methods for data mining, contributions to anomaly detection and unimodality testing (Alban SIFFER) [manuscrit](documents/2019_these_Alban_Siffer.pdf)
