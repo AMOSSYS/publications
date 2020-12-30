@@ -41,7 +41,7 @@
   * C&ESAR, Rennes - Intelligent Thresholding (Alban SIFFER) [slides](documents/2018_CESAR_Intelligent_thresholding.pdf)
   * European Cyber Week, Rennes - Les limites de l'IA appliquée à la cybersécurité dans un contexte d'évaluation (Frederic GUIHÉRY) [slides](documents/2018_ECW_Evaluation_produits_IA.pdf)
 * 2020
-  * C&ESAR, Rennes - Intelligent Thresholding (Frédéric GUIHERY, Alban SIFFER, Joseph PAILLARD) [slides](documents/2020_CESAR_BEEZH_platform.pptx) [paper](documents/2020_CESAR_BEEZH_platform.pdf)
+  * C&ESAR, Rennes - BEEZH: une plateforme de détonation réaliste pour l’analyse des modes opératoires d’attaquants (Frédéric GUIHERY, Alban SIFFER, Joseph PAILLARD) [slides](documents/2020_CESAR_BEEZH_platform.pptx) [paper](documents/2020_CESAR_BEEZH_platform.pdf)
 
 ## Thesis manuscripts
 
