@@ -42,7 +42,7 @@
   * European Cyber Week, Rennes - Les limites de l'IA appliquée à la cybersécurité dans un contexte d'évaluation (Frederic GUIHÉRY) [slides](documents/2018_ECW_Evaluation_produits_IA.pdf)
 * 2020
   * C&ESAR, Rennes - BEEZH: une plateforme de détonation réaliste pour l’analyse des modes opératoires d’attaquants (Frédéric GUIHERY, Alban SIFFER, Joseph PAILLARD) [slides](documents/2020_CESAR_BEEZH_platform.pptx) [paper](documents/2020_CESAR_BEEZH_platform.pdf)
-  * TRUSTCOM, Guangzhou - Netspot: a simple Intrusion Detection Systemwith statistical learning (Alban SIFFER, Pierre-Alain FOUQUE, Alexandre TERMIER, Christine LARGOUET) [paper](documents/2020_TRUSTCOM_Netspot_article.pdf)
+  * TRUSTCOM, Guangzhou - Netspot: a simple Intrusion Detection System with statistical learning (Alban SIFFER, Pierre-Alain FOUQUE, Alexandre TERMIER, Christine LARGOUET) [paper](documents/2020_TRUSTCOM_Netspot_article.pdf)
 
 ## Thesis manuscripts
 
